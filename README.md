@@ -1,6 +1,6 @@
 # CSES Problem Set Solutions
 
-My personal solutions to problems from the [CSES Problem Set](https://cses.fi/problemset/).
+My personal solutions to problems from the [CSES Problem Set](https://cses.fi/problemset/) since 2026/1/27.
 
 ## About CSES
 
@@ -51,7 +51,7 @@ All solutions are written in **C++**.
 To compile and run any solution:
 
 ```bash
-g++ -std=c++17 -O2 -Wall solution.cpp -o solution
+g++ -std=c++20 -O2 -Wall solution.cpp -o solution
 ./solution
 ```
 
