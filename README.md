@@ -40,7 +40,7 @@ I maintain a spreadsheet (`cses.xlsx`) to track my solving progress, time estima
 | Counting Problems | 0 | 18 |
 | Additional Problems I | 0 | 30 |
 | Additional Problems II | 0 | 30 |
-| **Total** | **12** | **400** |
+| **Total** | **13** | **400** |
 
 ## Language
 
