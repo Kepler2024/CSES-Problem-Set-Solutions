@@ -14,10 +14,6 @@ CSES (Code Submission Evaluation System) is a collection of competitive programm
 └── cses.xlsx       # Problem tracking spreadsheet
 ```
 
-## Progress Tracking
-
-I maintain a spreadsheet (`cses.xlsx`) to track my solving progress, time estimates, and completion dates.
-
 ## Progress
 
 | Category | Solved | Total |
@@ -57,7 +53,7 @@ g++ -std=c++20 -O2 -Wall solution.cpp -o solution
 
 ## Notes
 
-- Some problems have multiple solution approaches (e.g., bit manipulation vs. arithmetic)
+- Some problems have multiple solution approaches (e.g., bit manipulation vs. backtracking)
 - Solutions prioritize clarity and correctness over extreme optimization
 
 ## Resources
@@ -72,4 +68,3 @@ This repository contains my personal solutions for educational purposes.
 ---
 
 **Author:** Harry Cui Kepler
-**Last Updated:** February 2026
