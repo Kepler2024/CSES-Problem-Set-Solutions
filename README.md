@@ -22,7 +22,7 @@ I maintain a spreadsheet (`cses.xlsx`) to track my solving progress, time estima
 
 | Category | Solved | Total |
 |----------|--------|-------|
-| Introductory Problems | 15 | 24 |
+| Introductory Problems | 16 | 24 |
 | Sorting and Searching | 0 | 35 |
 | Dynamic Programming | 0 | 23 |
 | Graph Algorithms | 0 | 36 |
@@ -40,7 +40,7 @@ I maintain a spreadsheet (`cses.xlsx`) to track my solving progress, time estima
 | Counting Problems | 0 | 18 |
 | Additional Problems I | 0 | 30 |
 | Additional Problems II | 0 | 30 |
-| **Total** | **15** | **400** |
+| **Total** | **16** | **400** |
 
 ## Language
 
