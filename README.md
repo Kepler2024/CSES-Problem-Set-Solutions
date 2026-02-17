@@ -18,7 +18,7 @@ CSES (Code Submission Evaluation System) is a collection of competitive programm
 
 | Category | Solved | Total |
 |----------|--------|-------|
-| Introductory Problems | 16 | 24 |
+| Introductory Problems | 17 | 24 |
 | Sorting and Searching | 0 | 35 |
 | Dynamic Programming | 0 | 23 |
 | Graph Algorithms | 0 | 36 |
@@ -36,7 +36,7 @@ CSES (Code Submission Evaluation System) is a collection of competitive programm
 | Counting Problems | 0 | 18 |
 | Additional Problems I | 0 | 30 |
 | Additional Problems II | 0 | 30 |
-| **Total** | **16** | **400** |
+| **Total** | **17** | **400** |
 
 ## Language
 
