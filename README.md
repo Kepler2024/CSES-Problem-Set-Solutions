@@ -6,19 +6,11 @@ My personal solutions to problems from the [CSES Problem Set](https://cses.fi/pr
 
 CSES (Code Submission Evaluation System) is a collection of competitive programming practice problems maintained by the University of Helsinki. The problem set covers essential algorithms and data structures topics commonly seen in competitive programming.
 
-## Repository Structure
-
-```
-.
-├── intro/          # Introductory Problems
-└── cses.xlsx       # Problem tracking spreadsheet
-```
-
 ## Progress
 
 | Category | Solved | Total |
 |----------|--------|-------|
-| Introductory Problems | 17 | 24 |
+| Introductory Problems | 18 | 24 |
 | Sorting and Searching | 0 | 35 |
 | Dynamic Programming | 0 | 23 |
 | Graph Algorithms | 0 | 36 |
@@ -36,7 +28,7 @@ CSES (Code Submission Evaluation System) is a collection of competitive programm
 | Counting Problems | 0 | 18 |
 | Additional Problems I | 0 | 30 |
 | Additional Problems II | 0 | 30 |
-| **Total** | **17** | **400** |
+| **Total** | **18** | **400** |
 
 ## Language
 
