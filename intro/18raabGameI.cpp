@@ -8,7 +8,7 @@ int main() {
     int n,a,b;
     cin >> n >> a >> b;
 
-    if ((a+b)>n) {
+    if (((a+b)>n)||((a==0)&&(b!=0))||((a!=0)&&(b==0))) {
       cout << "NO" << endl;
       continue;
     }
@@ -22,15 +22,15 @@ int main() {
     }
     
     // A win
-    for (int i=x+1,j=n; i<=x+a,j>x; i++,j--) {
-      resA.push_back(j);
-      resB.push_back(i);
+    for (int i=1; i<=a; i++) {
+      resA.push_back(x+i+b);
+      resB.push_back(x+i);
     }
 
     // B win
-    for (int i=x+a+1,j=n-a; i<=n,j>x+a; i++,j--) {
-      resA.push_back(i);
-      resB.push_back(j);
+    for (int i=1; i<=b; i++) {
+      resA.push_back(x+i);
+      resB.push_back(x+i+a);
     }
 
 
